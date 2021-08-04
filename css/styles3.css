@@ -1,0 +1,18 @@
+h1 {
+  color:red;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+  color:slategrey;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul {
+  color:blanchedalmond;
+}
+
+body {
+  background-color:black;
+}
